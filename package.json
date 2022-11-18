@@ -1,0 +1,18 @@
+{
+  "name": "4-natours",
+  "version": "1.0.0",
+  "description": "\"learning Node, express and mongodb\"",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Edoba Ajayi",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^5.13.15",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.20"
+  }
+}
